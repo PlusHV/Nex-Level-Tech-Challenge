@@ -1,0 +1,19 @@
+{
+
+
+	"halfCleave": [
+		["left", "right"],
+		["right", "left"]
+
+	],
+	"cardinalCones": [
+		["cardinal", "intercardinal"],
+		["intercardinal", "cardinal"]
+
+	],
+
+	"basic": [
+		["basic"]
+	]
+
+}
